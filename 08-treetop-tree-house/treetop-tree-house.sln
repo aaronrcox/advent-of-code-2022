@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treetop-tree-house", "treetop-tree-house.csproj", "{FF4D0C39-0009-43B6-89D9-76B662376E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF4D0C39-0009-43B6-89D9-76B662376E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4D0C39-0009-43B6-89D9-76B662376E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4D0C39-0009-43B6-89D9-76B662376E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4D0C39-0009-43B6-89D9-76B662376E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E0D442-36C8-423B-8462-82D2DCFEFD4C}
+	EndGlobalSection
+EndGlobal
